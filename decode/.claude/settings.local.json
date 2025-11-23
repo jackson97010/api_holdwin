@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(dir:*)",
+      "Bash(nul)",
+      "Bash(dir /B TSEQuote.* 2)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
